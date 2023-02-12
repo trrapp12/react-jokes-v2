@@ -39,6 +39,18 @@ https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-
 
 ### Description:
 
+THE NEW SITE IMPROVEMENTS INCLUDE
+
+
+🆕 Static site > DYNAMIC SITE!
+
+🆕 Props only > PROPS, USESTATE(), USEEFFECT()!
+
+🆕 Stuck in a repository (hoping someone would download, build a server, then view) > PUBLISHED ON THE WEB!
+
+🆕 Blah! Monochromatic design with unimpressive hover effects > STRONG COLOR, USE OF SPACE, HIERARCHY, MOVEMENT, AND EVEN TRANSITION EFFECTS THAT INTEGRATE WITH REACT!
+
+🆕 Jokes were presented all at once in an overwhelming list > IMPROVED UI/UX AS PEOPLE CAN NOW CYCLE THROUGH THE JOKES WITH A CLICK INSTEAD OF A SCROLL
 
 ---
 
