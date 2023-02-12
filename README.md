@@ -1,5 +1,5 @@
 
-# REACT JOKES
+# REACT JOKES v2.0
 
 
 
@@ -52,7 +52,7 @@ A basic static page built using React.
 ### Project published at: 
 ---
 
-[REACT FACTS](https://trrapp12.github.io/React-Jokes/)
+[REACT FACTS](https://tourmaline-medovik-1e81f3.netlify.app/)
 
 ### More Information:
 ---
