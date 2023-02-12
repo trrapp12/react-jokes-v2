@@ -38,7 +38,7 @@ function App () {
     <div  key={Math.random()} className="master-container">
       <div className="circle"></div>
       <h1> Dad Jokes</h1>
-      <div className="p-container">+
+      <div className="p-container">
         <div className="p-and-button-container">
           <div className="p-divider-a">
             <p>This project demonstrates passing props in React.  See the code at <a href="https://github.com/trrapp12/React-Jokes">React-Jokes</a>.  And while you're waiting, hover to enjoy a good Dad joke!</p>

@@ -3,7 +3,6 @@ import { useEffect } from 'react'
 import styled from 'styled-components'
 
 const NoteContainer = styled.div`
-  margin-top: 14%;
   background-color: rgba(255, 255, 255, .2);
   padding: 3em;
   transition: all 500ms ease-in-out;
