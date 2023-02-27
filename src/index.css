@@ -70,6 +70,7 @@ p {
 
 .attribution {
   font-size: .85em;
+  font-weight: bold;
   color: rgba(1, 16, 75, .5);
   transition: all 500ms ease-in-out;
 }
@@ -146,8 +147,9 @@ p {
   padding: 5em;
 }
 
-.p-and-button-container{
+.p-and-button-container {
   display: flex;
+  gap: 10em;
 }
 
 .p-container {
@@ -159,7 +161,7 @@ p {
 }
 
 .p-divider-a {
-  max-width: 30vw;
+  max-width: 25vw;
   padding: 2vw 2vw 0vw 0vw;
   flex-shrink: 1;
 }
@@ -189,6 +191,7 @@ p {
 
 .rating {
   font-size: 1.75em;
+  font-weight: bold;
   color: rgba(1, 16, 75, .5);
   transition: all 500ms ease-in-out;
   min-width: fit-content;
