@@ -7,7 +7,13 @@ const NoteContainer = styled.div`
   padding: 3em;
   transition: all 500ms ease-in-out;
   opacity: 0;
+  transition-duration: 250ms;
   z-index: 0;
+
+  @media (max-width: 1350px) {
+    padding: 2em;
+    transition-duration: 250ms;
+  }
 `
 function Jokes(props) {
 
