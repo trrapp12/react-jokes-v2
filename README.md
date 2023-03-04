@@ -26,14 +26,16 @@ https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-
-
 <br>
 <br>
 
 ---
 
 ### Description:
+
+> “A father carries pictures where his money used to be.” – Steve Martin
+
+This
 
 THE NEW SITE IMPROVEMENTS INCLUDE
 
@@ -65,12 +67,16 @@ A basic static page built using React.
 - [x] Use of import and export statements
 - [x] Use of local server with webpack
 
-### Project published at: 
+### CREDITS: 
 ---
 
-[REACT FACTS](https://tourmaline-medovik-1e81f3.netlify.app/)
+Project created by TREVOR RAPP
 
-### More Information:
+Original project was inspired by <a href="https://scrimba.com/learn/frontend"> Scrimba's Front End Development Course </a>
+
+<a href="https://www.flaticon.com/free-icons/react" title="react icons">React icons created by Dreamstale - Flaticon</a>
+
+### YOU CAN FIND ME AT:
 ---
 
 \**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
