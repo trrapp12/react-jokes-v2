@@ -35,10 +35,9 @@ https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-
 
 > “A father carries pictures where his money used to be.” – Steve Martin
 
-This
+Because who doesn't love Dad jokes?  This is a React project I refactored and improved on.  The original was part of a Scrimba Frontend Development course.  However, the complete refactoring was all my own inspiration, creative decision, and coding experimentation. 
 
 THE NEW SITE IMPROVEMENTS INCLUDE
-
 
 🆕 Static site > DYNAMIC SITE!
 
@@ -66,6 +65,25 @@ A basic static page built using React.
 - [x] Use of CSS and images in React environment
 - [x] Use of import and export statements
 - [x] Use of local server with webpack
+
+### CHALLENGES I OVERCAME
+---
+
+### MY OWN PERSONAL CONTRIBUTIONS INCLUDED
+---
+
+Basically the original course only took the project up to using props.  Nothing with `useState()` or `useEffect()` were included.  The complete redesign of version 2 was all my own creation.  Once again, these improvements included:
+
+🆕 Static site > DYNAMIC SITE!
+
+🆕 Props only > PROPS, USESTATE(), USEEFFECT()!
+
+🆕 Stuck in a repository (hoping someone would download, build a server, then view) > PUBLISHED ON THE WEB!
+
+🆕 Blah! Monochromatic design with unimpressive hover effects > STRONG COLOR, USE OF SPACE, HIERARCHY, MOVEMENT, AND EVEN TRANSITION EFFECTS THAT INTEGRATE WITH REACT!
+
+🆕 Jokes were presented all at once in an overwhelming list > IMPROVED UI/UX AS PEOPLE CAN NOW CYCLE THROUGH THE JOKES WITH A CLICK INSTEAD OF A SCROLL
+
 
 ### CREDITS: 
 ---
