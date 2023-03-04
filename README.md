@@ -32,6 +32,7 @@ https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-
 ---
 
 ### Description:
+---
 
 > “A father carries pictures where his money used to be.” – Steve Martin
 
@@ -52,12 +53,7 @@ THE NEW SITE IMPROVEMENTS INCLUDE
 
 🆕 Jokes were presented all at once in an overwhelming list > IMPROVED UI/UX AS PEOPLE CAN NOW CYCLE THROUGH THE JOKES WITH A CLICK INSTEAD OF A SCROLL
 
----
-
-A basic static page built using React. 
-
 ### Project v1.0 demonstrates the following:
----
 
 - [x] Use of JSX
 - [x] Use of basic syntax and architecture of React
