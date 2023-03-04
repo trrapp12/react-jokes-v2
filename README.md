@@ -72,7 +72,7 @@ A basic static page built using React.
 
 Project created by TREVOR RAPP
 
-Original project was inspired by <a href="https://scrimba.com/learn/frontend"> Scrimba's Front End Development Course </a>
+Original project was inspired by <a href="https://www.linkedin.com/in/bobziroll/">Bob Ziroll's</a> React course, part of the <a href="https://scrimba.com/learn/frontend"> Scrimba's Front End Development Course </a>
 
 <a href="https://www.flaticon.com/free-icons/react" title="react icons">React icons created by Dreamstale - Flaticon</a>
 
