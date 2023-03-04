@@ -16,6 +16,7 @@ https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-
 
 <br/>
 <br/>
+
 ---
 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -53,6 +54,9 @@ THE NEW SITE IMPROVEMENTS INCLUDE
 
 🆕 Jokes were presented all at once in an overwhelming list > IMPROVED UI/UX AS PEOPLE CAN NOW CYCLE THROUGH THE JOKES WITH A CLICK INSTEAD OF A SCROLL
 
+<br/>
+<br/>
+
 ### Project v1.0 demonstrates the following:
 
 - [x] Use of JSX
@@ -64,6 +68,9 @@ THE NEW SITE IMPROVEMENTS INCLUDE
 - [x] Use of CSS and images in React environment
 - [x] Use of import and export statements
 - [x] Use of local server with webpack
+
+<br/>
+<br/>
 
 ### CHALLENGES I OVERCAME
 ---
@@ -92,6 +99,8 @@ Basically the original course only took the project up to using props.  Nothing 
 
 🆕 Jokes were presented all at once in an overwhelming list > IMPROVED UI/UX AS PEOPLE CAN NOW CYCLE THROUGH THE JOKES WITH A CLICK INSTEAD OF A SCROLL
 
+<br/>
+<br/>
 
 ### CREDITS: 
 ---
@@ -101,6 +110,9 @@ Project created by TREVOR RAPP
 Original project was inspired by <a href="https://www.linkedin.com/in/bobziroll/">Bob Ziroll's</a> React course, part of the <a href="https://scrimba.com/learn/frontend"> Scrimba's Front End Development Course </a>
 
 <a href="https://www.flaticon.com/free-icons/react" title="react icons">React icons created by Dreamstale - Flaticon</a>
+
+<br/>
+<br/>
 
 ### YOU CAN FIND ME AT:
 ---
