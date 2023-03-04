@@ -72,6 +72,12 @@ A basic static page built using React.
 ### CHALLENGES I OVERCAME
 ---
 
+As far as technical issues most were pretty straightforward, though there were two relatively small hiccups.  
+
+1) I had to move props up to a parent element so that the button that registered the state change could control the state of the joke card (hitting the button cycles the jokes on the card).
+
+2) The fun decoration in the background is all controlled with vanilla JS.  I had originally tried to just add that through a normal script tag in my index.html.  However that created an issue where it would fire the first time the page rendered, but if the state changed and caused a rerender the script tag wouldn't fire again and I would lose the effect of the words inside the decorative ball populating.  So what I had to do to get around that is to creat a function that wrote the same script in my App.js file, and then use a useEffect hook to re-write that script when the page re-rendered.
+
 <br/>
 <br/>
 
