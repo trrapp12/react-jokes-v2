@@ -1,5 +1,7 @@
 
 # REACT JOKES v2.0 
+<br/>
+<br/>
 
 ### NEW AND IMPROVED VERSION
 
@@ -7,6 +9,8 @@ https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-
 
 [![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://tourmaline-medovik-1e81f3.netlify.app/)
 
+<br/>
+<br/>
 
 ### ORIGINAL VERSION
 
