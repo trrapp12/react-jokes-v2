@@ -72,6 +72,9 @@ A basic static page built using React.
 ### CHALLENGES I OVERCAME
 ---
 
+<br/>
+<br/>
+
 ### MY OWN PERSONAL CONTRIBUTIONS INCLUDED
 ---
 
