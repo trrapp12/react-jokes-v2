@@ -118,6 +118,8 @@ Original project was inspired by <a href="https://www.linkedin.com/in/bobziroll/
 
 <a href="https://www.flaticon.com/free-icons/react" title="react icons">React icons created by Dreamstale - Flaticon</a>
 
+*This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).*
+
 <br/>
 <br/>
 
@@ -126,7 +128,7 @@ Original project was inspired by <a href="https://www.linkedin.com/in/bobziroll/
 
 \**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
 
-*This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).*
+
 
 
 
