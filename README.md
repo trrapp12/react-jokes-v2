@@ -1,8 +1,6 @@
 
 # REACT JOKES v2.0 
 
----
-
 ### NEW AND IMPROVED VERSION
 
 https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-832b-f80a25814d69.mp4
