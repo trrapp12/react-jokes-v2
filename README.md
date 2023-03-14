@@ -10,7 +10,6 @@ https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-
 [![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://tourmaline-medovik-1e81f3.netlify.app/)
 
 <br/>
-<br/>
 
 ### ORIGINAL VERSION
 
@@ -18,7 +17,6 @@ https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-
 
 [![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://trrapp12.github.io/React-Jokes/)
 
-<br/>
 <br/>
 
 ---
@@ -31,8 +29,6 @@ https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br>
-<br>
 
 ---
 
@@ -61,9 +57,6 @@ THE NEW SITE IMPROVEMENTS INCLUDE
 
 🆕 Jokes were presented all at once in an overwhelming list > IMPROVED UI/UX AS PEOPLE CAN NOW CYCLE THROUGH THE JOKES WITH A CLICK INSTEAD OF A SCROLL
 
-<br/>
-<br/>
-
 ### Project v1.0 demonstrates the following:
 
 - [x] Use of JSX
@@ -76,9 +69,6 @@ THE NEW SITE IMPROVEMENTS INCLUDE
 - [x] Use of import and export statements
 - [x] Use of local server with webpack
 
-<br/>
-<br/>
-
 ### CHALLENGES I OVERCAME
 ---
 
@@ -87,9 +77,6 @@ As far as technical issues most were pretty straightforward, though there were t
 1) I had to move props up to a parent element so that the button that registered the state change could control the state of the joke card (hitting the button cycles the jokes on the card).
 
 2) The fun decoration in the background is all controlled with vanilla JS.  I had originally tried to just add that through a normal script tag in my index.html.  However that created an issue where it would fire the first time the page rendered, but if the state changed and caused a rerender the script tag wouldn't fire again and I would lose the effect of the words inside the decorative ball populating.  So what I had to do to get around that is to creat a function that wrote the same script in my App.js file, and then use a useEffect hook to re-write that script when the page re-rendered.
-
-<br/>
-<br/>
 
 ### MY OWN PERSONAL CONTRIBUTIONS INCLUDED
 ---
@@ -106,9 +93,6 @@ Basically the original course only took the project up to using props.  Nothing 
 
 🆕 Jokes were presented all at once in an overwhelming list > IMPROVED UI/UX AS PEOPLE CAN NOW CYCLE THROUGH THE JOKES WITH A CLICK INSTEAD OF A SCROLL
 
-<br/>
-<br/>
-
 ### CREDITS: 
 ---
 
@@ -119,9 +103,6 @@ Original project was inspired by <a href="https://www.linkedin.com/in/bobziroll/
 <a href="https://www.flaticon.com/free-icons/react" title="react icons">React icons created by Dreamstale - Flaticon</a>
 
 *This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).*
-
-<br/>
-<br/>
 
 ### YOU CAN FIND ME AT:
 ---
