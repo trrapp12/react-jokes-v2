@@ -5,9 +5,16 @@
 
 ### NEW AND IMPROVED VERSION
 
-https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-832b-f80a25814d69.mp4
+<br/>
 
 [![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://groan-worthy-dad-jokes.com/)
+
+<br/>
+
+
+https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-832b-f80a25814d69.mp4
+
+
 
 <br/>
 
