@@ -1,6 +1,6 @@
 
 # REACT JOKES v2.0 
-<br/>
+
 <br/>
 
 ### NEW AND IMPROVED VERSION
@@ -11,10 +11,7 @@
 
 <br/>
 
-
 https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-832b-f80a25814d69.mp4
-
-
 
 <br/>
 
@@ -47,10 +44,9 @@ https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-
 
 > “A father carries pictures where his money used to be.” – Steve Martin
 
-<br/>
-<br/>
+*Because who doesn't love Dad jokes?  This is a React project I refactored and improved on.  The original was part of a Scrimba Frontend Development course.  However, the complete refactoring was all my own inspiration, creative decision, and coding experimentation.*
 
-Because who doesn't love Dad jokes?  This is a React project I refactored and improved on.  The original was part of a Scrimba Frontend Development course.  However, the complete refactoring was all my own inspiration, creative decision, and coding experimentation. 
+---
 
 THE NEW SITE IMPROVEMENTS INCLUDE
 
