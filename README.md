@@ -1,9 +1,11 @@
 
 # REACT JOKES v2.0 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/05ee7cbd-8855-4863-95f5-e773405ff7ca/deploy-status)](https://app.netlify.com/sites/tourmaline-medovik-1e81f3/deploys)
+
 <br/>
 
-### NEW AND IMPROVED VERSION
+#### NEW AND IMPROVED VERSION
 
 <br/>
 
@@ -15,7 +17,7 @@ https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-
 
 <br/>
 
-### ORIGINAL VERSION
+#### ORIGINAL VERSION
 
 ![screenshot-localhost_3000-2022 03 02-07_54_45](https://user-images.githubusercontent.com/11747875/156386294-0178003b-a2e8-442a-a5e2-59beb3274268.png)
 
