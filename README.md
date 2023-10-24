@@ -55,6 +55,8 @@ https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-
 >
 > -– Steve Martin
 
+<br/>
+
 *Because who doesn't love Dad jokes?  This is a React project I refactored and improved on.  The original was part of a Scrimba Frontend Development course.  However, the complete refactoring was all my own inspiration, creative decision, and coding experimentation.*
 
 <br/>
