@@ -35,22 +35,25 @@ https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br/>
 
 ---
 
 <br/>
-<br/>
 
 ### Description:
 
+<br/>
 
-> “A father carries pictures where his money used to be.” – Steve Martin
+> “A father carries pictures where his money used to be.”
+>
+> -– Steve Martin
 
 *Because who doesn't love Dad jokes?  This is a React project I refactored and improved on.  The original was part of a Scrimba Frontend Development course.  However, the complete refactoring was all my own inspiration, creative decision, and coding experimentation.*
 
 ---
 
-THE NEW SITE IMPROVEMENTS INCLUDE
+### PROJECT V2.0 DEMONSTRATES
 
 🆕 Static site > DYNAMIC SITE!
 
@@ -62,7 +65,7 @@ THE NEW SITE IMPROVEMENTS INCLUDE
 
 🆕 Jokes were presented all at once in an overwhelming list > IMPROVED UI/UX AS PEOPLE CAN NOW CYCLE THROUGH THE JOKES WITH A CLICK INSTEAD OF A SCROLL
 
-### Project v1.0 demonstrates the following:
+### PROJECT V1.0 DEMONSTRATES:
 
 - [x] Use of JSX
 - [x] Use of basic syntax and architecture of React
@@ -74,8 +77,11 @@ THE NEW SITE IMPROVEMENTS INCLUDE
 - [x] Use of import and export statements
 - [x] Use of local server with webpack
 
-### CHALLENGES I OVERCAME
+<br/>
+
 ---
+
+### CHALLENGES I OVERCAME
 
 As far as technical issues most were pretty straightforward, though there were two relatively small hiccups.  
 
@@ -83,8 +89,11 @@ As far as technical issues most were pretty straightforward, though there were t
 
 2) The fun decoration in the background is all controlled with vanilla JS.  I had originally tried to just add that through a normal script tag in my index.html.  However that created an issue where it would fire the first time the page rendered, but if the state changed and caused a rerender the script tag wouldn't fire again and I would lose the effect of the words inside the decorative ball populating.  So what I had to do to get around that is to creat a function that wrote the same script in my App.js file, and then use a useEffect hook to re-write that script when the page re-rendered.
 
-### MY OWN PERSONAL CONTRIBUTIONS INCLUDED
+<br/>
+
 ---
+
+### MY OWN PERSONAL CONTRIBUTIONS INCLUDED
 
 Basically the original course only took the project up to using props.  Nothing with `useState()` or `useEffect()` were included.  The complete redesign of version 2 was all my own creation.  Once again, these improvements included:
 
@@ -98,19 +107,26 @@ Basically the original course only took the project up to using props.  Nothing 
 
 🆕 Jokes were presented all at once in an overwhelming list > IMPROVED UI/UX AS PEOPLE CAN NOW CYCLE THROUGH THE JOKES WITH A CLICK INSTEAD OF A SCROLL
 
-### CREDITS: 
+<br/>
+
 ---
+
+### ATTRIBUTIONS
 
 Project created by TREVOR RAPP
 
-Original project was inspired by <a href="https://www.linkedin.com/in/bobziroll/">Bob Ziroll's</a> React course, part of the <a href="https://scrimba.com/learn/frontend"> Scrimba's Front End Development Course </a>
+* Original project was inspired by <a href="https://www.linkedin.com/in/bobziroll/">Bob Ziroll's</a> React course, part of the <a href="https://scrimba.com/learn/frontend"> Scrimba's Front End Development Course </a>
 
-<a href="https://www.flaticon.com/free-icons/react" title="react icons">React icons created by Dreamstale - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/react" title="react icons">React icons created by Dreamstale - Flaticon</a>
 
-*This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).*
+* *This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).*
 
-### YOU CAN FIND ME AT:
+<br/>
+
 ---
+
+### YOU CAN FIND ME AT
+
 
 \**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
 
